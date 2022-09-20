@@ -1,8 +1,8 @@
-#My vim config
+# My vim config
 
-##Steps
+## Steps
 * Create a `.vim` folder in the user's root
-	`mkdir ~/.vim`
+	```mkdir ~/.vim```
 * Clone this repo into the newly created `.vim` folder
 	```
 		cd ~/.vim
@@ -12,4 +12,4 @@
 		git checkout -ft origin/main 
 	```
 * Run the `init.sh` utility to install the plugin manager, and configure the default vimrc
-	`sh init.sh`
+	```sh init.sh```
