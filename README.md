@@ -7,7 +7,7 @@
 	```
 	cd ~/.vim
 	git init
-	git remote add origin git@github.com:Delta-Shadow/vim-config.git
+	git remote add origin https://github.com/Delta-Shadow/vim-config.git
 	git fetch
 	git checkout -ft origin/main 
 	```
