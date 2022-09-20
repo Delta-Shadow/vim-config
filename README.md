@@ -13,3 +13,4 @@
 	```
 * Run the `init.sh` utility to install the plugin manager, and configure the default vimrc: 
 	```sh init.sh```
+* Launch vim and run `:PlugInstall` once to complete plugin installation
